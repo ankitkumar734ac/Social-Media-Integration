@@ -26,6 +26,7 @@ Integrating social media logins means using APIs for each corresponding social p
 ## Installing & Running the tests
 
 A step by step series of examples that tell you how to get a development env running<br/>
+My APK Downloading Link:- [Click Here!](https://github.com/ankitkumar734ac/Social-Media-Integration/raw/main/GripLogin.apk)
 
 Say what the step will be<br/>
 ##### Step 1:
