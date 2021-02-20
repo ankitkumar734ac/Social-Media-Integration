@@ -67,7 +67,7 @@ If anyone interested in this project then must implement twitter, github, and ot
 
 ## Authors
 
-* **Ankit Kumar** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Ankit Kumar** - *Initial work* - [GitHub](https://github.com/ankitkumar734ac)
 
 ## Acknowledgments
 
