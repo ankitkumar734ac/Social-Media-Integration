@@ -1,42 +1,45 @@
 <H1 align="center">Social Media Integration</H1>
 Integrating social media logins means using APIs for each corresponding social platform, like Facebook Login and Google+ API. While some APIs limit the resources that third-party apps can use without paying, it’s typically free to use these APIs and support a range of social logins.
 
-## Getting Started
+## Basic Requirement of This Application
+```
+◇Create a mobile app, where user can login through at least two social media from such as Facebook and Google.<br/>
+◇ After login, display all the details (e.g. Name, profile photo, email, etc.) on the second page.<br/>
+◇ Take help of online tutorials and Youtube videos.<br/>
+◇ No backend / server side programming required.<br/>
+◇ Very good looking UI and responsive UI, which should work for mobiles as well as tablets.<br/>
+◇ Clean code is a must.<br/>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+```
 
 ### Prerequisites
-
-What things you need to install the software and how to install them
-
 ```
-Give examples
+1. IDE:- Android Studio
+2. Programming Language used:- JAVA
+3. Must have install jdk8 in our system.
+4. Must have Gmail and Facebook account for these API.
+5. We need an Android SmartPhone to install this application for testing.
 ```
 
 
-![alt text](http://url/to/img.png)
-![Screenshot](screenshot.png)
-<p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
-</p>
+
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
 
 Say what the step will be
+#Step 1:
+![Screenshot](Screenshot(220).png)
+#Step 2:
+![Screenshot](screenshot.png)
+#Step 3:
+![Screenshot](screenshot.png)
+#Step 4:
+![Screenshot](screenshot.png)
+#Step 5:
+![Screenshot](screenshot.png)
+#Step 6:
 
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
