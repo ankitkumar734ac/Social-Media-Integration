@@ -25,13 +25,16 @@ Integrating social media logins means using APIs for each corresponding social p
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+A step by step series of examples that tell you how to get a development env running<br/>
 
-Say what the step will be
-#Step 1:
-![Screenshot](Screenshot(220).png)
-#Step 2:
-![Screenshot](screenshot.png)
+Say what the step will be<br/>
+#Step 1:<br/>
+```
+When developement phase is complete then click on Run button
+```
+![Screenshot](https://github.com/ankitkumar734ac/Social-Media-Integration/blob/main/Screenshot%20(220).png)<br/>
+#Step 2:<br/>
+![Screenshot](https://github.com/ankitkumar734ac/Social-Media-Integration/blob/main/Screenshot%20(220).png)
 #Step 3:
 ![Screenshot](screenshot.png)
 #Step 4:
