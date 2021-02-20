@@ -3,12 +3,12 @@ Integrating social media logins means using APIs for each corresponding social p
 
 ## Basic Requirement of This Application
 ```
-◇Create a mobile app, where user can login through at least two social media from such as Facebook and Google.<br/>
-◇ After login, display all the details (e.g. Name, profile photo, email, etc.) on the second page.<br/>
-◇ Take help of online tutorials and Youtube videos.<br/>
-◇ No backend / server side programming required.<br/>
-◇ Very good looking UI and responsive UI, which should work for mobiles as well as tablets.<br/>
-◇ Clean code is a must.<br/>
+◇Create a mobile app, where user can login through at least two social media from such as Facebook and Google.
+◇ After login, display all the details (e.g. Name, profile photo, email, etc.) on the second page.
+◇ Take help of online tutorials and Youtube videos.
+◇ No backend / server side programming required.
+◇ Very good looking UI and responsive UI, which should work for mobiles as well as tablets.
+◇ Clean code is a must.
 
 ```
 
@@ -28,14 +28,17 @@ Integrating social media logins means using APIs for each corresponding social p
 A step by step series of examples that tell you how to get a development env running<br/>
 
 Say what the step will be<br/>
-#Step 1:<br/>
+# Step 1:
 ```
 When developement phase is complete then click on Run button
 ```
 ![Screenshot](https://github.com/ankitkumar734ac/Social-Media-Integration/blob/main/Screenshot%20(220).png)<br/>
-#Step 2:<br/>
-![Screenshot](https://github.com/ankitkumar734ac/Social-Media-Integration/blob/main/Screenshot%20(220).png)
-#Step 3:
+# Step 2:
+```
+When successfuly compilation is complete then install in our SmartPhone and click this icon. Shown in figure.
+```
+![Screenshot](https://github.com/ankitkumar734ac/Social-Media-Integration/blob/main/Screenshot%20(221).png)<br/>
+# Step 3:
 ![Screenshot](screenshot.png)
 #Step 4:
 ![Screenshot](screenshot.png)
